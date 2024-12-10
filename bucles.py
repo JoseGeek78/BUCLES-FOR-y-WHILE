@@ -1,4 +1,4 @@
-for i in range(5, 10):
+for i in range(5,21,3):
     print(f'El valor del bucle es: {i}.')
     
 print('Fin del bucle.')    
