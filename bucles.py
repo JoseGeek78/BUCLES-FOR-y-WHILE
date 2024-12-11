@@ -2,7 +2,7 @@ colores = ['rojo', 'azul', 'blanco', 'amarillo']
 print('---LISTADO DE COLORES---')
 
 for color in colores:
-    print(f'-{}')
+    print(f'-{color}.')
 
 
 # for i in range(5,-24,-3):
