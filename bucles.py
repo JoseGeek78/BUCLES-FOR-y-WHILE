@@ -1,4 +1,4 @@
-colores = ['Rojo', 'Azul', 'Blanco', 'amarillo']
+colores = ['Rojo', 'Azul', 'Blanco', 'Amarillo', 'Verde']
 print('---LISTADO DE COLORES---')
 
 for color in colores:
