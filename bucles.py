@@ -5,7 +5,7 @@ print('---COLOR LIST---')
 for color in colores:
     if color == 'Blue' or color == 'Green':
         continue
-print()
+    print(f'-Color {color}.')
 
 
 
