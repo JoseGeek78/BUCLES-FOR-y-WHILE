@@ -1,4 +1,5 @@
-colores = ['Red', 'Blue', '']
+colores = ['Red', 'Blue', 'Green', 'Yellow']
+
 
 
 
