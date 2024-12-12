@@ -2,7 +2,8 @@ colores = ['Red', 'Blue', 'Green', 'Yellow']
 
 print('---COLOR LIST---')
 
-for color in colores
+for color in colores:
+    if color == 'Blue' or color == 'Green':
 
 
 
