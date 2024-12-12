@@ -1,4 +1,4 @@
-
+colores = ['Red', 'Blue', '']
 
 
 
