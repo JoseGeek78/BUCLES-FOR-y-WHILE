@@ -8,8 +8,6 @@ for color in colores:
         break
     print(f'-Color {color}.')
 
-
-
 # colores = ['Rojo', 'Azul', 'Blanco', 'Amarillo', 'Verde']
 # print('---LISTADO DE COLORES---')
 
