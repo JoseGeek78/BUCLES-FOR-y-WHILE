@@ -4,7 +4,7 @@ print('---COLOR LIST---')
 
 for color in colores:
     if color == 'Blue' or color == 'Green':
-        print('Se ha saltado este valor.')
+        print('Se ha roto la ejecución del bucle.')
         continue
     print(f'-Color {color}.')
 
