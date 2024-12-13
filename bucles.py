@@ -3,7 +3,7 @@ colores = ['Red', 'Blue', 'Green', 'Yellow']
 print('---COLOR LIST---')
 
 for color in colores:
-    if color == 'Blue' or color == 'Green' or color == 'Red':
+    if color == 'Blue' or color == 'Green':
         print('Se ha saltado este valor.')
         continue
     print(f'-Color {color}.')
