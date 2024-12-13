@@ -4,6 +4,7 @@ print('---COLOR LIST---')
 
 for color in colores:
     if color == 'Blue' or color == 'Green' or color == 'Red':
+        print()
         continue
     print(f'-Color {color}.')
 
