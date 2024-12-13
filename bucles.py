@@ -3,9 +3,9 @@ colores = ['Red', 'Blue', 'Green', 'Yellow']
 print('---COLOR LIST---')
 
 for color in colores:
-    if color == 'Blue' or color == 'Green':
+    if color == 'Green':
         print('Se ha roto la ejecución del bucle.')
-        continue
+        break
     print(f'-Color {color}.')
 
 
