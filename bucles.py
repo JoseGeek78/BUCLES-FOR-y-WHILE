@@ -1,12 +1,12 @@
-colores = ['Red', 'Blue', 'Green', 'Yellow']
+# colores = ['Red', 'Blue', 'Green', 'Yellow']
 
-print('---COLOR LIST---')
+# print('---COLOR LIST---')
 
-for color in colores:
-    if color == 'Green':
-        print('Se ha roto la ejecución del bucle.')
-        break
-    print(f'-Color {color}.')
+# for color in colores:
+#    if color == 'Green':
+#        print('Se ha roto la ejecución del bucle.')
+#        break
+#    print(f'-Color {color}.')
 
 # colores = ['Rojo', 'Azul', 'Blanco', 'Amarillo', 'Verde']
 # print('---LISTADO DE COLORES---')
