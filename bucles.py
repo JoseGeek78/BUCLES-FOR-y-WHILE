@@ -1,6 +1,6 @@
 i = 1
 
-while i < 5:
+while i < 7:
     print(f'El valor del bucle es: {i}.')
     i += 1
 
