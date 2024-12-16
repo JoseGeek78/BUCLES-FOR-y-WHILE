@@ -1,11 +1,17 @@
-i = 1
+i = 2
 
-while i < 7:
+while i <= 11:
     print(f'El valor del bucle es: {i}.')
-    i += 1
+    i += 2
 
 
 
+# i = 1
+
+# while i < 7:
+#    print(f'El valor del bucle es: {i}.')
+#    i += 1
+    
 # colores = ['Red', 'Blue', 'Green', 'Yellow']
 
 # print('---COLOR LIST---')
