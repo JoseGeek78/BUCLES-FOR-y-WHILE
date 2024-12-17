@@ -1,8 +1,8 @@
-i = 2
+# i = 2
 
-while i <= 11:
-    print(f'El valor del bucle es: {i}.')
-    i += 2
+# while i <= 11:
+#    print(f'El valor del bucle es: {i}.')
+#    i += 2
 
 # i = 1
 
