@@ -1,7 +1,7 @@
 while True:
-    salida = input("Introduce 'salir' para finalizar.\n")
-
-
+    salida = input("Introduce 'salir' para finalizar.\n").lower()
+    if salida == 'salir':
+        break
 
 # i = 2
 
