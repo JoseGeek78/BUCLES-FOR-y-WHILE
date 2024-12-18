@@ -1,5 +1,5 @@
 while True:
-    salida = input()
+    salida = input("Introduce 'salir' para finalizar.\n")
 
 
 
