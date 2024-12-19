@@ -1,3 +1,11 @@
+i = 7 
+
+while i <= 14:
+    
+
+
+
+
 # while True:
 #     salida = input("Introduce 'salir' para finalizar.\n").lower()
 #     if salida == 'salir':
