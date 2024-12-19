@@ -1,7 +1,8 @@
 i = 7 
 
 while i <= 14:
-    print(f'El valor del bucle es:')
+    print(f'El valor del bucle es: {i}.')
+    i += 1
 
 
 
